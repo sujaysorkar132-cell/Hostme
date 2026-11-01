@@ -10,7 +10,7 @@ import zipfile
 from telebot import types
 
 # --- Configuration ---
-API_TOKEN = '8794670279:AAF4oSiWPzR9rvCNPGcHi6mPC0w6fWXg3Bk'
+API_TOKEN = '8794670279:AAFgS8OS5w9G2FQKkOiKjuz8a-N2SJ67J_Y'
 ADMIN_ID = 7529369260
 CHANNEL_ID = "@online_channel_012" 
 bot = telebot.TeleBot(API_TOKEN)
